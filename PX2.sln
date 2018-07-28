@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poolio.Api", "Poolio.Api\Poolio.Api.csproj", "{AECC20D2-E306-4974-BB65-AD684B2ED808}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AECC20D2-E306-4974-BB65-AD684B2ED808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AECC20D2-E306-4974-BB65-AD684B2ED808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AECC20D2-E306-4974-BB65-AD684B2ED808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AECC20D2-E306-4974-BB65-AD684B2ED808}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C0AAF92-51CC-4CC0-BCDA-7B2510A10FB3}
+	EndGlobalSection
+EndGlobal
